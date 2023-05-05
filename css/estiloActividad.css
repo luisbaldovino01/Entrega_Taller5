@@ -1,0 +1,33 @@
+body{
+    background-color: brown;
+    font-family: arial;
+}
+
+.contenedor{
+    background-color: white;
+    margin: 150px auto;
+    width: 800px;
+}
+
+thead{
+    background-color: red;
+    color: white;
+}
+
+tr:nth-child(even){
+    background-color: #dddd;
+}
+
+tr:hover{
+    background-color: #EA5457;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    background-color: red;
+    margin-left: 365px;
+}
